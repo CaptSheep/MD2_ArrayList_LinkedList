@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "Student_Manager/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
